@@ -19,6 +19,8 @@
     "gradient-string": "^2.0.0",
     "lodash": "^4.17.21",
     "ora": "^6.1.0",
+    "sequelize": "^6.28.0",
+    "sqlite3": "^5.1.4",
     "uuid": "^8.3.2"
   }
 }
